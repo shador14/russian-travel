@@ -1,9 +1,0 @@
-.header__lang-link {
-  text-decoration: none;
-  color: white;
-  padding-left: 18px;
-}
-
-.header__lang-link:hover {
-  text-decoration: underline;
-}
