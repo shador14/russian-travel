@@ -1,0 +1,10 @@
+.lead {
+  background-color: #2A2C2F;
+  display: flex;
+  flex-direction: column;
+  max-width: 984px;
+  overflow: visible;
+  align-items: center;
+  margin: 0 148px;
+  color: white;
+}
