@@ -1,0 +1,8 @@
+.header__lang {
+  list-style: none;
+  display: flex;
+  font-size: 24px;
+  line-height: 28px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-weight: 400;
+}
