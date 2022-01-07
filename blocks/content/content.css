@@ -2,4 +2,6 @@
   background-color: #2A2C2F;
   margin: 0;
   padding: 56px 0;
+  display: grid;
+  column-gap: 92px;
 }
