@@ -1,0 +1,15 @@
+.place {
+  min-height: 584px;
+  margin: 0 0 80px;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-areas: 
+  "title web"
+  "item description";
+  gap: 48px 40px;
+}
+
+.place:last-child {
+  margin: 0;
+}
