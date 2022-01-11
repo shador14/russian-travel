@@ -1,0 +1,15 @@
+.footer__link-item {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: white;
+  font-family: 'Inter', Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.footer__link-item:hover {
+  transition: color 0.5s;
+  color: #87CEEB;
+}
