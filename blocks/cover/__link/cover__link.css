@@ -1,7 +1,9 @@
 .cover__link {
+  max-width: 1184px;
   min-height: 740px;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   justify-content: center;
