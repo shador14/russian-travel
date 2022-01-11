@@ -1,6 +1,5 @@
 .places {
   min-height: 3392px;
-  margin: 0;
-  padding: 92px 148px 0;
-  box-sizing: border-box;
+  margin: 92px 148px 0;
+  padding: 0;
 }
