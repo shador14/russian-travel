@@ -1,6 +1,8 @@
 .place__description {
   min-height: 345px;
+  max-width: 484px;
   margin: 0;
   padding: 0;
   grid-area: description;
+  box-sizing: border-box;
 }

@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   max-height: 460px;
+  max-width: 460px;
   box-sizing: border-box;
   grid-area: item;
 }

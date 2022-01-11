@@ -1,7 +1,9 @@
 .place {
   min-height: 584px;
+  max-width: 984px;
   margin: 0 0 80px;
   padding: 0;
+  box-sizing: border-box;
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-areas: 
