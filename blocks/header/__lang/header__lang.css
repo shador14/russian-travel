@@ -1,6 +1,8 @@
 .header__lang {
   margin: 0;
   padding: 0;
+  max-width: 78px;
+  min-height: 28px;
   list-style: none;
   display: flex;
   align-items: center;
