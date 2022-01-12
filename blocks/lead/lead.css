@@ -7,3 +7,24 @@
   flex-direction: column;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1120px) {
+  .lead {
+    min-height: 962px;
+    padding: 48px 48px 0;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .lead {
+    min-height: 962px;
+    padding: 48px 48px 0;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .lead {
+    min-height: 962px;
+    padding: 48px 48px 0;
+  }
+}
