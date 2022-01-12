@@ -8,3 +8,15 @@
   letter-spacing: 2px;
   color: #AAAAAA;
 }
+
+@media screen and (max-width: 960px) {
+  .place__website-url {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .place__website-url {
+    max-width: 288px;
+  }
+}

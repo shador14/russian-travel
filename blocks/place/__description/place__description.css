@@ -1,6 +1,28 @@
 .place__description {
+  max-width: 484px;
   min-height: 345px;
   margin: 0;
   padding: 0;
   grid-area: description;
+}
+
+@media screen and (max-width: 1120px) {
+  .place__description {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .place__description {
+    max-width: 352px;
+    min-height: 337px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .place__description {
+    max-width: 288px;
+    min-height: 467px;
+    margin: 0 16px;
+  }
 }

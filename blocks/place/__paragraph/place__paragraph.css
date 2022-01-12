@@ -11,3 +11,29 @@
 .place__paragraph:nth-child(2) {
   margin: 26px 0 0;
 }
+
+@media screen and (max-width: 1120px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .place__paragraph {
+    max-width: 352px;
+    min-height: 104px;
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .place__paragraph:nth-child(2) {
+    margin: 25px 0 0;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .place__paragraph {
+    max-width: 288px;
+    min-height: 156px;
+  }
+}

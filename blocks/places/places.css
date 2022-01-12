@@ -4,3 +4,24 @@
   padding: 92px 148px 0;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1120px) {
+  .places {
+    min-height: 3292px;
+    padding: 92px 48px 0;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .places {
+    min-height: 2808px;
+    padding: 88px 24px 0;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .places {
+    min-height: 5177px;
+    padding: 64px 0 0;
+  }
+}
