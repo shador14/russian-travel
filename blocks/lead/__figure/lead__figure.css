@@ -4,3 +4,26 @@
   max-width: 984px;
   max-height: 637px;
 }
+
+@media screen and (max-width: 1120px) {
+  .lead__figure {
+    max-width: 928px;
+    max-height: 602px;
+    margin: 56px 0 0;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .lead__figure {
+    max-width: 768px;
+    max-height: 502px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .lead__figure {
+    max-width: 320px;
+    max-height: 222px;
+    margin: 40px 0 0;
+  }
+}

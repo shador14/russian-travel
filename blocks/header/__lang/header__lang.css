@@ -8,3 +8,11 @@
   column-gap: 18px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 680px) {
+  .header__lang {
+    max-width: 62px;
+    min-height: 20px;
+    margin: 14px 0 0;
+  }
+}
