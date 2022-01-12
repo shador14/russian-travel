@@ -8,3 +8,12 @@
   text-align: center;
   z-index: 1;
 }
+
+@media screen and (max-width: 680px) {
+  .cover__subtitle {
+    max-width: 255px;
+    margin: 16px 0 0;
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
