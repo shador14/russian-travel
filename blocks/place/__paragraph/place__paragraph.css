@@ -11,3 +11,21 @@
 .place__paragraph:nth-child(2) {
   margin: 26px 0 0;
 }
+
+@media screen and (max-width: 1120px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .place__paragraph {
+    max-width: 456px;
+  }
+}

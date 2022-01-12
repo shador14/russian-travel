@@ -4,3 +4,21 @@
   padding: 92px 442px 0 148px;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 1120px) {
+  .intro {
+    padding: 92px 286px 0 48px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .intro {
+    padding: 92px 286px 0 48px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .intro {
+    padding: 92px 286px 0 48px;
+  }
+}
