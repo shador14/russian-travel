@@ -12,11 +12,3 @@
   transition: color 0.5s;
   color: #87CEEB;
 }
-
-@media screen and (max-width: 540px) {
-  .header__lang-link {
-    max-width: 22px;
-    font-size: 18px;
-    line-height: 20px;
-  }
-}
