@@ -11,8 +11,7 @@
 }
 
 .footer__link-item:hover {
-  transition: color 0.5s;
-  color: #87CEEB;
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 680px) {
