@@ -7,3 +7,12 @@
   display: flex;
   column-gap: 18px;
 }
+
+@media screen and (max-width: 680px) {
+  .footer__link {
+    min-height: 24px;
+    column-gap: 0;
+    row-gap: 32px;
+    flex-direction: column;
+  }
+}

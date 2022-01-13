@@ -1,4 +1,5 @@
 .footer__link-item {
+  min-height: 18px;
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -12,4 +13,12 @@
 .footer__link-item:hover {
   transition: color 0.5s;
   color: #87CEEB;
+}
+
+@media screen and (max-width: 680px) {
+  .footer__link-item {
+    min-height: 24px;
+    font-size: 24px;
+    line-height: 24px;
+  }
 }

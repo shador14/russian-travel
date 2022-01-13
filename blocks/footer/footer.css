@@ -7,3 +7,18 @@
   justify-content: space-between;
   color: white;
 }
+
+@media screen and (max-width: 960px) {
+  .footer {
+    padding: 88px 24px 24px;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .footer {
+    min-height: 310px;
+    padding: 64px 113px 24px 16px;
+    flex-direction: column;
+    row-gap: 48px;
+  }
+}
