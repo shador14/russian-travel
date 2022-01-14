@@ -10,10 +10,6 @@
   line-height: 18px;
 }
 
-.footer__link-item:hover {
-  opacity: 0.8;
-}
-
 @media screen and (max-width: 680px) {
   .footer__link-item {
     min-height: 24px;
