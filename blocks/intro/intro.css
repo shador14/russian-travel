@@ -1,5 +1,4 @@
 .intro {
-  min-height: 429px;
   margin: 0;
   padding: 92px 442px 0 148px;
   box-sizing: border-box;
@@ -19,7 +18,6 @@
 
 @media screen and (max-width: 680px) {
   .intro {
-    min-height: 754px;
     padding: 64px 16px 0;
   }
 }

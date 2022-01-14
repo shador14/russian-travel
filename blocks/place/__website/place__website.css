@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   max-width: 456px;
-  min-height: 46px;
   grid-area: web;
   align-self: flex-end;
 }

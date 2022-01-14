@@ -1,6 +1,5 @@
 .place__description {
   max-width: 484px;
-  min-height: 345px;
   margin: 0;
   padding: 0;
   grid-area: description;
@@ -15,14 +14,12 @@
 @media screen and (max-width: 960px) {
   .place__description {
     max-width: 352px;
-    min-height: 337px;
   }
 }
 
 @media screen and (max-width: 680px) {
   .place__description {
     max-width: 288px;
-    min-height: 484px; /*при "брифовой" высоте в 467px текст в параграфах выглядит после первого абзаца значительно иначе, потмо вся страница поднимается и сильно не сходится с итогом. сейчас есть различия, но по итогу размер блоков совпадает в perfecrpixel*/
     margin: 0 16px;
   }
 }

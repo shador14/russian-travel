@@ -1,5 +1,4 @@
 .header__lang-link {
-  max-width: 30px;
   text-decoration: none;
   color: white;
   font-family: 'Inter', Helvetica, sans-serif;
@@ -10,7 +9,6 @@
 
 @media screen and (max-width: 680px) {
   .header__lang-link {
-    max-width: 22px;
     font-size: 18px;
     line-height: 20px;
   }

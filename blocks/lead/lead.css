@@ -1,5 +1,4 @@
 .lead {
-  min-height: 1005px;
   margin: 0;
   padding: 56px 148px 0;
   display: flex;
@@ -10,20 +9,12 @@
 
 @media screen and (max-width: 1120px) {
   .lead {
-    min-height: 962px;
     padding: 48px 48px 0;
   }
 }
 
 @media screen and (max-width: 960px) {
   .lead {
-    min-height: 862px;
     padding: 48px 0 0;
-  }
-}
-
-@media screen and (max-width: 680px) {
-  .lead {
-    min-height: 406px;
   }
 }
