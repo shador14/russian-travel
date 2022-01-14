@@ -6,17 +6,20 @@
 @media screen and (max-width: 1120px) {
   .page__container {
     max-width: 1024px;
+    transition: max-width 0.5s;
   }
 }
 
 @media screen and (max-width: 960px) {
   .page__container {
     max-width: 768px;
+    transition: max-width 0.5s;
   }
 }
 
 @media screen and (max-width: 680px) {
   .page__container {
     max-width: 320px;
+    transition: max-width 0.5s;
   }
 }
